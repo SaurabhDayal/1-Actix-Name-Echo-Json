@@ -1,0 +1,1 @@
+{"rustc_fingerprint":5775175419003362117,"outputs":{"4614504638168534921":{"success":false,"status":"exit status: 1","code":1,"stdout":"","stderr":"snap-confine has elevated permissions and is not confined but should be. Refusing to continue to avoid permission escalation attacks\nPlease make sure that the snapd.apparmor service is enabled and started.\n"}},"successes":{}}
